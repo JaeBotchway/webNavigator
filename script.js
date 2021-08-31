@@ -10,6 +10,7 @@ let currentPage = 'Start page';
 // ------------------------------
 // Helper Functions
 // ------------------------------
+
 showCurrentPage = (action) =>{
  console.log(`\n$${action}`);
  console.log(`Current page = ${currentPage}`);
