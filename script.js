@@ -54,6 +54,7 @@ const question = 'Where would you like to go today? '
 // ------------------------------
 // User Interface Part 1
 // ------------------------------
+
 let finish = false;
 let showBack = false;
 let showNext = false;
