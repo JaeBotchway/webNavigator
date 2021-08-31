@@ -80,6 +80,8 @@ while (finish === false) {
   // ------------------------------
   // User Interface Part 2
   // ------------------------------
+
+  
 const answer = prompt(question);
 const mixedCase = 'Hello World';
 const lowerCase = mixedCase.toLowerCase();
